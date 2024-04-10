@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>Used to trigger an email to remind a user to pick up the loaner item.</description>
+        <event_name>x_832282_loaner_0.pickUp</event_name>
+        <fired_by>Scheduled Script Execution: Loaner Item Pick Up</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>pickUp</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>jpg.servicenow</sys_created_by>
+        <sys_created_on>2024-04-06 12:30:22</sys_created_on>
+        <sys_id>6b1f941f93d502104fc6f55a7bba10ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_832282_loaner_0.pickUp</sys_name>
+        <sys_package display_value="Loaner Request" source="x_832282_loaner_0">bfaa9ae3930102104fc6f55a7bba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bfaa9ae3930102104fc6f55a7bba102f</sys_scope>
+        <sys_update_name>sysevent_register_6b1f941f93d502104fc6f55a7bba10ca</sys_update_name>
+        <sys_updated_by>jpg.servicenow</sys_updated_by>
+        <sys_updated_on>2024-04-06 12:30:22</sys_updated_on>
+        <table>x_832282_loaner_0_loaner_request</table>
+    </sysevent_register>
+</record_update>
