@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Loaner Request Table">f983e786931102104fc6f55a7bba1001</datasource>
+        <field>number</field>
+        <source>x_832282_loaner_0_loaner_request</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-03 05:28:06</sys_created_on>
+        <sys_id>7183e786931102104fc6f55a7bba1029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_832282_loaner_0_loaner_request.number</sys_name>
+        <sys_package display_value="Loaner Request" source="x_832282_loaner_0">bfaa9ae3930102104fc6f55a7bba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bfaa9ae3930102104fc6f55a7bba102f</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_7183e786931102104fc6f55a7bba1029</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-03 05:28:06</sys_updated_on>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>
